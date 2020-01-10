@@ -14,8 +14,8 @@ This project builds a web design skeleton using HTML/CSS.
 * Box Model
 
 #### Code Snippet
-This is how The left box section structured in html.
-```JAVASCRIPT
+This is how the left box section structured in html.
+```
 <section>
 	section
 	<article>
